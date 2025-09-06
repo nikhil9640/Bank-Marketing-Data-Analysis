@@ -8,20 +8,20 @@ To identify the most influential features affecting customer decisions.
 To assist banks in optimizing their marketing strategies and resources.
 
 # Methodology
-**1. Data Loading:** Importing the dataset using pandas.
-**2. Exploratory Data Analysis (EDA):** Checking structure, summary statistics, missing values and visualizing distributions.
-**3.Preprocessing:** Handling missing values, encoding categorical variables, and scaling numerical features.
-**4.Train-Test Split:** Dividing the dataset into training and testing sets.
-**5.Model Building:** Logistic Regression, Decision Tree, Random Forest.
-**6.Evaluation:** Confusion Matrix, Classification Report, ROC-AUC curves.
-**7.Feature Importance:** Identifying key features influencing subscription.
-**8.Model Saving:** Exporting trained pipelines for future predictions.
+- **1. Data Loading:** Importing the dataset using pandas.
+- **2. Exploratory Data Analysis (EDA):** Checking structure, summary statistics, missing values and visualizing distributions.
+- **3.Preprocessing:** Handling missing values, encoding categorical variables, and scaling numerical features.
+- **4.Train-Test Split:** Dividing the dataset into training and testing sets.
+- **5.Model Building:** Logistic Regression, Decision Tree, Random Forest.
+- **6.Evaluation:** Confusion Matrix, Classification Report, ROC-AUC curves.
+- **7.Feature Importance:** Identifying key features influencing subscription.
+- **8.Model Saving:** Exporting trained pipelines for future predictions.
 
 # Models
-**1.Logistic Regression:** Provided interpretability but limited predictive power.
-**2.Decision Tree:** Captured non-linear relationships but prone to overfitting.
-**3. Random Forest:** Best-performing model with robust handling of categorical and numerical features.
-**4. (Optional extensions:** XGBoost, Gradient Boosting (GB), and Neural Networks for deeper analysis.)
+- **1.Logistic Regression:** Provided interpretability but limited predictive power.
+- **2.Decision Tree:** Captured non-linear relationships but prone to overfitting.
+- **3. Random Forest:** Best-performing model with robust handling of categorical and numerical features.
+- **4. (Optional extensions:** XGBoost, Gradient Boosting (GB), and Neural Networks for deeper analysis.)
 
 
 # Conclusion
